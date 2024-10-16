@@ -1,0 +1,66 @@
+Index	Name	Total stats	Legendary
+156	Articuno	580	True
+157	Zapdos	580	True
+158	Moltres	580	True
+162	Mewtwo	680	True
+163	MewtwoMega Mewtwo X	780	True
+164	MewtwoMega Mewtwo Y	780	True
+262	Raikou	580	True
+263	Entei	580	True
+264	Suicune	580	True
+269	Lugia	680	True
+270	Ho-oh	680	True
+414	Regirock	580	True
+415	Regice	580	True
+416	Registeel	580	True
+417	Latias	600	True
+418	LatiasMega Latias	700	True
+419	Latios	600	True
+420	LatiosMega Latios	700	True
+421	Kyogre	670	True
+422	KyogrePrimal Kyogre	770	True
+423	Groudon	670	True
+424	GroudonPrimal Groudon	770	True
+425	Rayquaza	680	True
+426	RayquazaMega Rayquaza	780	True
+427	Jirachi	600	True
+428	DeoxysNormal Forme	600	True
+429	DeoxysAttack Forme	600	True
+430	DeoxysDefense Forme	600	True
+431	DeoxysSpeed Forme	600	True
+537	Uxie	580	True
+538	Mesprit	580	True
+539	Azelf	580	True
+540	Dialga	680	True
+541	Palkia	680	True
+542	Heatran	600	True
+543	Regigigas	670	True
+544	GiratinaAltered Forme	680	True
+545	GiratinaOrigin Forme	680	True
+549	Darkrai	600	True
+550	ShayminLand Forme	600	True
+551	ShayminSky Forme	600	True
+552	Arceus	720	True
+553	Victini	600	True
+699	Cobalion	580	True
+700	Terrakion	580	True
+701	Virizion	580	True
+702	TornadusIncarnate Forme	580	True
+703	TornadusTherian Forme	580	True
+704	ThundurusIncarnate Forme	580	True
+705	ThundurusTherian Forme	580	True
+706	Reshiram	680	True
+707	Zekrom	680	True
+708	LandorusIncarnate Forme	600	True
+709	LandorusTherian Forme	600	True
+710	Kyurem	660	True
+711	KyuremBlack Kyurem	700	True
+712	KyuremWhite Kyurem	700	True
+792	Xerneas	680	True
+793	Yveltal	680	True
+794	Zygarde50% Forme	600	True
+795	Diancie	600	True
+796	DiancieMega Diancie	700	True
+797	HoopaHoopa Confined	600	True
+798	HoopaHoopa Unbound	680	True
+799	Volcanion	600	True
